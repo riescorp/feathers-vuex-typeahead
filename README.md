@@ -6,6 +6,7 @@ Select component using feathers vuex services
 
 - You'll need feathers-vuex 1.7.0-pre.23 or greater in order to make this component work
 - You'll need to setup your store first to prove the requiered service
+- Limited to exact search by name only
 
 ### Steps
 

@@ -1,0 +1,26 @@
+{
+  "name": "feathers-vuex-typeahead",
+  "version": "0.0.1",
+  "description": "Simple Typeahead component using feathers vuex services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riescorp/feathers-vuex-typeahead.git"
+  },
+  "keywords": [
+    "vue",
+    "vuex",
+    "feathers-vuex",
+    "typeahead",
+    "feathersjs"
+  ],
+  "author": "Nico Riesco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riescorp/feathers-vuex-typeahead/issues"
+  },
+  "homepage": "https://github.com/riescorp/feathers-vuex-typeahead#readme"
+}

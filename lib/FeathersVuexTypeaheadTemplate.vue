@@ -36,8 +36,8 @@ export default {
 </script>
 <style>
 .feathers-vuex-typeahead-selected-container {
-  background: blue;
-  /*color: purple;*/
+  background: teal;
+  /*color: white;*/
 }
 
 .feathers-vuex-typeahead-selected-content {
@@ -51,10 +51,11 @@ export default {
 .feathers-vuex-typeahead-highlight {
   background: yellow;
   color: #333;
+  font-weight: 600;
 }
 
 .feathers-vuex-typeahead-highlight:hover {
-  background: blue;
-  color: #333;
+  /*background: purple !important;*/
+  /*color: #333;*/
 }
 </style>

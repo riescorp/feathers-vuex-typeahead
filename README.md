@@ -2,11 +2,22 @@
 
 Select component using feathers vuex services
 
+## Important note
+
+- You'll need feathers-vuex 1.7.0-pre.23 or greater in order to make this component work
+- You'll need to setup your store first to prove the requiered service
+
+### Steps
+
+1. `npm i feathers-vuex@1.7.0-pre.23`
+1. usually in `store/index.js` you add `service('your-service')`
+
 ## References
 
 - [Feathers](https://feathersjs.com/)
 - [Feathers-Vuex](https://github.com/feathers-plus/feathers-vuex)
 - [Feathers-Vuex Docs](https://feathers-plus.github.io/v1/feathers-vuex/index.html)
+- [Feathers-Vuex Mixins](https://feathers-plus.github.io/v1/feathers-vuex/mixins.html)
 
 ## Example
 

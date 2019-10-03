@@ -1,6 +1,6 @@
 # Feathers Vuex Typeahead
 
-Select component using feathers vuex services
+Typeahead component using feathers vuex services
 
 ## Important note
 
@@ -26,7 +26,7 @@ Select component using feathers vuex services
 ### Import and register in your VM:
 
 ```
-import FeathersVuexSelect from 'feathers-vuex-typeahead'
+import FeathersVuexTypeahead from 'feathers-vuex-typeahead'
 ...
 export default {
   ...
